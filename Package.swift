@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "IDnowEID",
-            url: "https://github.com/idnow/eid-sdk-ios/releases/download/1.1.1.testanser/IDnowEID.xcframework.zip",
-            checksum: "24175229f308f76e931bdcb1399a0dd751389338fb3030617de4306cb5c8b734"
+            url: "https://github.com/idnow/eid-sdk-ios/releases/download/1.0.0-test-github-v3/IDnowEID.xcframework.zip",
+            checksum: "67f97f8e56eb889f597ada27be7dfa11ef7bff2c78d1a2fb89a2e0d7c940c6e5"
         )
     ]
 )
